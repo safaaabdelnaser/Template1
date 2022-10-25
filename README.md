@@ -1,2 +1,2 @@
-# template1
+# Template1
 Html and CSS design
